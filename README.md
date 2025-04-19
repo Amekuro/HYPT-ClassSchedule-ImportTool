@@ -14,7 +14,7 @@
   <img src="step/step2.jpg" width="25%">
 </details>
 <details>
-  <summary>step3 选择图上的项目，然后会回到第二步的界面，现在点击“开始导入”</summary>
+  <summary>step3 选择图上的项目，然后会回到第二步的界面，现在点击“开始导入”（图上的链接是我改之前的用户名）</summary>
   <img src="step/step3.jpg" width="25%">
 </details>
 <details>
